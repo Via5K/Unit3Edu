@@ -14,3 +14,8 @@ Moreover, if you are in desperate need of a certification you can use a certific
 ## Why Us?
 
 These courses will follow certain proven path with assessments and structure build in such a way that it would become easier for you to understand and gain hands-on knowledge of things. 
+
+
+## Something Wrong ?
+
+If you find something wrong with the structure or code implementation feel free to correct it by opening a pull request. Or if it is something wrong in Youtube Video ("Make sure you comment the issue!!")
